@@ -1,0 +1,6 @@
+path: /Users/stephdoudak/Desktop/task_license_plate_annotations_2024_07_03_22_24_21_yolo1.1
+train: images/train
+val: images/train
+
+names:
+  0: plate
